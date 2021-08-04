@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+OctoConnie: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Greetings earthlings! I'm **Connie** and it's a pleasure to meet you earthside! Welcome into my world of bears 🐻, beets 🍠, and Battlestar Galactica 🌟
